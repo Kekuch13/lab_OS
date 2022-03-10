@@ -1,2 +1,2 @@
 # lab_OS
-[link](./lab1)
+[link](./lab2)
